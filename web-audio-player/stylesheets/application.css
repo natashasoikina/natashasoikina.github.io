@@ -126,10 +126,8 @@ body {
   position: relative;
   width: 800px;
   margin: 0 auto;
-  text-align: center;
-}
-.player__content {
   color: #f8f8f0;
+  text-align: center;
 }
 .player__details {
   margin-bottom: 2rem;
